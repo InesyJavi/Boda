@@ -5,13 +5,19 @@ const loveMessages = [
   imagePath: "images/day1.jpg"
   },
   {
-  message: "You are so intelligent and cultured. You are such an interesting person, and I am never bored when I talk to you. I love our discussions about life, society, and politics.",
-  comment: "17/06/2018 - Meeting Your Best Friend: Almost everyone had already left Glasgow, but I stayed and had the chance to meet your best friend. I was so happy to meet her and get to know you a bit better. You can tell a lot from people's friends, and it just confirmed what I already knew at that time – that you are an amazing and kind person.",
+  message: `¡¡Hola chicos!! Parece que fue ayer, pero ya ha pasado un mes desde vuestra boda, así que, ¡feliz mesversario! :) Qué bien nos lo pasamos y cuantísimo nos pudimos reír. A los dos os levantaron y bailasteis por los aires, Javi con su traje e Inés con su vestido blanco...
+Pero octubre es un mes mucho más oscuro. Durante este mes habéis viajado a Japón y hasta habéis visitado un hospital (y más cosas que no nos habréis contado). Esto es normal porque octubre es... 🦇🦇el mes de las cosas que dan miedo🦇🦇, y de las que a veces hay que escapar.
+Por eso, nuestro regalo del mes de octubre es... ¡una escape room de miedo!
+Esperamos que la disfrutéis muchísimo y que consigáis salir con vida...
+Para conseguirlo, tendréis que poner a prueba todos vuestros sentidos. El Escape Room es INFRAMUNDO, tenéis un bono para 2 jugadores válido hasta el 20.10.2025. Solo tendréis que escribir al correo administracion@getoutescaperoom.es o al whatsapp del número 648 878 455 para canjear vuestro bono con número 2110. 
+🎃¡Bienvenidos a la Spooky Season!🎃
+Nos vemos el mes que viene con una sorpresa que tendrá un toque fresquito acorde con la época del año❄️`,
+  comment: "Ni siquiera una pandemia se iba a interponer entre nosotros!",
   imagePath: "images/day2.jpg"
   },
   {
-  message: "You are such a nice person. Your heart is so pure, and you would do anything to help the people you love. I admire you for that.",
-  comment: "29/07/2018 - En Aragón Dinantes Estioron Leis, Que Reis: Going there for the first time, and we already had flight issues as my flight was delayed by 4 hours. But despite that, I was so happy (and a bit stressed, I'm not gonna lie) to meet your family and see where you grew up. It was also the first time we were away for so long, and I had missed you so much. We had a wonderful week, like always when I go there, and I loved your family from the beginning.",
+  message: "Mes3",
+  comment: "Mes3",
   imagePath: "images/day3.jpg"
   },
   {
@@ -76,7 +82,7 @@ const loveMessages = [
   }
   ];
   
-  const totalMonths = 12; // 12 mois de contenu
+  const totalMonths = 13; // 13 mois de contenu
   const loveMessageElement = document.getElementById("loveMessage");
   const daysLeftElement = document.getElementById("daysLeft");
   const loveLetterElement = document.getElementById("loveLetter");
@@ -87,7 +93,7 @@ const loveMessages = [
   const currentDate = new Date();
   
   // Date de début : 28 septembre 2024
-  const startDate = new Date(2024, 9, 28); // Mois indexé à 0 (8 = septembre)
+  const startDate = new Date(2024, 8, 28); // Mois indexé à 0 (8 = septembre)
   
   let monthsPassed = currentDate.getMonth() - startDate.getMonth() + 
                      (12 * (currentDate.getFullYear() - startDate.getFullYear()));
@@ -98,7 +104,7 @@ const loveMessages = [
   }
   
   if (monthsPassed < 0) monthsPassed = 0; // Si la date actuelle est avant le 28 septembre 2024
-  if (monthsPassed >= totalMonths) monthsPassed = totalMonths - 1; // Limite aux 15 mois disponibles
+  if (monthsPassed >= totalMonths) monthsPassed = totalMonths - 1; // Limite aux 13 mois disponibles
   
   let currentMonthDisplayed = monthsPassed + 1; // Initialise au mois débloqué courant
 

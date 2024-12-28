@@ -62,10 +62,12 @@ Nos vemos el mes que viene con una sorpresa que tendrá un toque fresquito acord
   imagePath: "images/day3.jpg"
   },
   {
-  message: `Hola chicos!!!
-Feliz mesver..... Bueno, casi que no. Nos hemos cogido unas vacaciones y no nos ha dado tiempo a daros un regalo este mes. Tendréis que esperar al año que viene. Chaoo!
-Cerrado por vacaciones`,
-  comment: "Vaya...eso es todo amigos",
+  message: `Hola chicos inocentes!!! Jajajaja seguro que no esperaríais ese texto 😂🤣
+Bueno, el tiempo vuela y ya han pasado 3 meses desde vuestra boda! Feliz mesversario!! 🎉🥳
+Después de los pilares de octubre y del oscuro noviembre con Halloween incluido 🎃 🦴 llega diciembre, inicio del invierno ☃️☃️, de las decoraciones navideñas 🎄, de las luces, de la alegría por decorar la casa y de celebrar las fiestas con la familia y amigos, además de cantar los villancicos tradicionales, la mítica María Carey que ya desde casi Halloween empieza a asomar la cabeza o el nuevo hit navideño del burrito sabanero de David Bisbal. 🫏🫏 
+Seguro que, como buena tradición, decoramos un poco la casa con ese ambiente navideño característico de este mes, y cómo no con un arbolito de navidad. Aunque sea un poco tardano, queremos colaborar con los adornos con el regalo de este mes, podéis abrir la caja 😊...cuando nos veamos. 
+ Felices fiestas!!! Os queremos!!`,
+  comment: "Quedada de reyes de 2023👑...este día Laura perdió las llaves🔑, Alba y Laura descubrieron que se iban juntas a Lyon 🥖 y Javi nos contó que le iba a pedir matrimonio a Raquel💍!",
   imagePath: "images/day4.jpg"
   },
   {

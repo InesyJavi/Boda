@@ -62,8 +62,10 @@ Nos vemos el mes que viene con una sorpresa que tendrá un toque fresquito acord
   imagePath: "images/day3.jpg"
   },
   {
-  message: "Diciembre",
-  comment: "Diciembre",
+  message: `Hola chicos!!!
+Feliz mesver..... Bueno, casi que no. Nos hemos cogido unas vacaciones y no nos ha dado tiempo a daros un regalo este mes. Tendréis que esperar al año que viene. Chaoo!
+Cerrado por vacaciones`,
+  comment: "Vaya...eso es todo amigos",
   imagePath: "images/day4.jpg"
   },
   {

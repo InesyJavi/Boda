@@ -71,8 +71,10 @@ Seguro que, como buena tradición, decoramos un poco la casa con ese ambiente na
   imagePath: "images/day4.jpg"
   },
   {
-  message: "Enero",
-  comment: "Enero",
+  message: `Hola chicos, y feliz año nuevo!
+Primera entrada de 2025, y ya 4 meses desde la boda 😊 Este mes, en el que vamos a hacer la escape room, también tendréis otra misión. ¿Sabéis qué evento se acerca a grandes pasos? Sí, San Valero! Patrón de Zaragoza, y el día 29 celebramos un día rosconero y ventolero🍃🌪️. Debemos deciros que de momento todavía no controlamos el viento… pero los roscones los manejamos bastante bien. Así que aquí tenéis vuestro rosco personalizado, donde tendréis que adivinar todas las palabras (sí, todas, no vale hacer trampas!) si queréis seguir recibiendo estos mensajes cada mes 😈 https://www.educaplay.com/learning-resources/20465441-adivina_la_palabra_conocimiento_y_relaciones.html Buena suerte y… hasta el mes que viene!!!
+`,
+  comment: "Venga, una fotico de la última vez que nos vimos :D Cómo hemos cambiado desde entonces, eramos jóvenes y sin preocupaciones lol",
   imagePath: "images/day5.jpg"
   },
   {
@@ -140,13 +142,13 @@ Seguro que, como buena tradición, decoramos un poco la casa con ese ambiente na
 
   
   // Date de début : 28 septembre 2024
-  const startDate = new Date(2024, 8, 28); // Mois indexé à 0 (8 = septembre)
+  const startDate = new Date(2024, 8, 25); // Mois indexé à 0 (8 = septembre)
   
   let monthsPassed = currentDate.getMonth() - startDate.getMonth() + 
                      (12 * (currentDate.getFullYear() - startDate.getFullYear()));
   
   // Si la date actuelle est avant le 28 du mois, le mois n'est pas encore débloqué
-  if (currentDate.getDate() < 28) {
+  if (currentDate.getDate() < 25) {
     monthsPassed--;
   }
   

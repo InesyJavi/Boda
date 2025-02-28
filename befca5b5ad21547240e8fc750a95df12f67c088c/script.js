@@ -78,8 +78,19 @@ Primera entrada de 2025, y ya 4 meses desde la boda 😊 Este mes, en el que vam
   imagePath: "images/day5.jpg"
   },
   {
-  message: "Febrero",
-  comment: "Febrero",
+  message: `  <p>¡¡Hola chicos!!</p>
+    <p>El tiempo vuela y resulta que ya han pasado <strong>cinco meses</strong> desde vuestra boda y que por fin vamos por la <strong>sexta entrada</strong> de la página. Aunque aún queda algo de frío <span class="emoji">❄️</span>, parece que el buen tiempo se acerca, y ya va tocando salir de casa otra vez y dejar la mantita en el sofá.</p>
+    
+    <p>Como sabéis, <strong>febrero</strong> es un mes muy especial porque es muy corto, y es muy especial porque tiene tantos días como días de mes hacen falta para celebrar vuestro <strong>mesversario</strong> (y porque los días del mes se reparten en la semana exactamente igual que en marzo, es muy guay de ver). Febrero es el único mes que puede cambiar de duración, es el único mes que puede no tener <strong>luna llena</strong> <span class="emoji">🌕</span> (cada 19 años, concretamente, es lo que se llama "luna negra" <span class="emoji">🌚</span>), el mes donde se celebra <strong>carnaval</strong> <span class="emoji">🎭</span> y, sobre todo, febrero es el <strong>mes del amor</strong> <span class="emoji">❤️</span>.</p>
+    
+    <p>Así que, para celebrar vuestro <strong>mesversario</strong>, vuestro <strong>amor</strong> y <strong>San Valentín</strong> todo en el mismo día... Preparaos para las acrobacias porque <span class="highlight">¡os hemos reservado un pequeño viaje a Nueva Zelanda! ❤️</span></p>
+    
+    <p>Os invitamos a cenar en el famoso restaurante <strong>Voltereta</strong> (que, por lo menos, hasta el mes pasado aún no habíais probado), para que disfrutéis juntos del ambiente, de la música, de la luz y, especialmente, de la comida <span class="emoji">🍽️</span>.</p>
+    
+    <p>Aquí os dejamos el <span class="highlight">✨billete mágico de Voltereta✨</span>, por un importe de <strong>50€</strong>, que podréis gastar cuando queráis <br><a href="https://we.tl/t-60EuDLX1Cx" target="_blank">Descargar bono</a>. Tendréis que hacer la reserva y avisar al restaurante de que tenéis el bono, para que lo tengan anotado. Con presentar el bono en formato digital y dar vuestro nombre el día de la reserva es suficiente.</p>
+    
+    <p><strong>¡Tenéis hasta enero de 2026 para gastarlo!</strong> (pero esperamos que vayáis antes).</p>`,
+  comment: "El refrán dice febrero ventolero, o febrerillo el loco (no es broma)",
   imagePath: "images/day6.jpg"
   },
   {

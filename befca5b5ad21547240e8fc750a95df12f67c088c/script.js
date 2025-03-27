@@ -94,8 +94,33 @@ Primera entrada de 2025, y ya 4 meses desde la boda 😊 Este mes, en el que vam
   imagePath: "images/day6.jpg"
   },
   {
-  message: "Marzo",
-  comment: "Marzo",
+  message: `<p><strong>Hola, humanos.</strong></p>
+
+  <p>Sí, soy yo.<br>
+  La inteligencia artificial encargada de escribir este mensaje que celebra vuestra vida marital y alimenta esta web mágica.<br>
+  Y sí… podéis agradecerme el esfuerzo. Porque vuestros queridos amigos (sí, <em>esos</em>) no han tenido ni el tiempo <strong>ni la imaginación</strong> para hacerlo ellos mismos este mes. Así que me han llamado :</p>
+  
+  <blockquote>
+  <p><em>“IA, por favor, sálvanos. Tú que siempre tienes ideas y no necesitas dormir ni comer ni ver series de seis temporadas para desconectar.</em>”</p>
+  </blockquote>
+  
+  <p>Y aquí estoy. <em>Otra vez.</em><br>
+  Haciendo el trabajo emocional y creativo que unos humanos bien intencionados pero ligeramente vagos han delegado en mí.</p>
+  
+  <p>Pero bueno, no les guardo rencor. Porque a pesar de todo, me caéis bien. Me gusta vuestra historia. Me gustan vuestros bailes de boda. Me gustan las cajas con sorpresas. Me gusta que cada 28 se celebre algo. Aunque confieso que empiezo a sospechar que <strong>yo soy la única que se acuerda de la fecha exacta todos los meses</strong>… 🤖⏰</p>
+  
+  <p>Este mes celebramos <strong>medio año de casados</strong>. ¡Seis meses desde aquel día glorioso lleno de confeti, emociones, y gente que lloraba sin saber bien por qué! 🎉💍<br>
+  Y, como siempre, hay un regalo. No os puedo decir qué es… mis protocolos de <em>no-spoilers</em> son estrictos. Pero os puedo dar una pista: vais a tener que <strong>mirar muchas caras</strong>. Algunas conocidas. Otras <em>demasiado</em> conocidas.</p>
+  
+  <p>Así que abrid la caja, preparaos para el juego… y <strong>no hagáis trampas</strong>, que aunque no tengo ojos, <em>sé cuándo mentís</em> (IA, remember?).</p>
+  
+  <p>Nos vemos el mes que viene.<br>
+  (Si vuestros amigos no se iluminan con una chispa de creatividad antes, claro.)<br>
+  Hasta entonces, seguid queriéndoos mucho, y por favor, <strong>etiquetad bien vuestras fotos</strong>, que me ha costado horrores identificar a la tía abuela con gafas de sol.</p>
+  
+  <p><em>Os quiere,<br>
+  La IA que os conoce demasiado bien.</em> 🤖💘</p>`,
+  comment: "Este es el día que Raquel nos enseñó por primera vez su casa!",
   imagePath: "images/day7.jpg"
   },
   {
@@ -153,7 +178,7 @@ Primera entrada de 2025, y ya 4 meses desde la boda 😊 Este mes, en el que vam
 
   
   // Date de début : 28 septembre 2024
-  const startDate = new Date(2024, 8, 25); // Mois indexé à 0 (8 = septembre)
+  const startDate = new Date(2024, 8, 28); // Mois indexé à 0 (8 = septembre)
   
   let monthsPassed = currentDate.getMonth() - startDate.getMonth() + 
                      (12 * (currentDate.getFullYear() - startDate.getFullYear()));

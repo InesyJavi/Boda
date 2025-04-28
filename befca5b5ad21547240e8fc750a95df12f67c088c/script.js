@@ -124,8 +124,17 @@ Primera entrada de 2025, y ya 4 meses desde la boda 😊 Este mes, en el que vam
   imagePath: "images/day7.jpg"
   },
   {
-  message: "Abril",
-  comment: "Abril",
+  message: `<p><strong>Hola chicos!!!</strong></p>
+
+<p>Somos nosotros de nuevo, sí, vuestros amigos de carne y hueso. El mes pasado se nos coló la IA 🤖 en vuestro mesversario pero hemos vuelto. Así que, <strong>¡feliz 7º mesversario!</strong> 🥳🥳🎉🎉🎂🎂<br>
+Ya pasamos el ecuador del año. ¡Qué rápido, eh! 😱</p>
+
+<p>Estamos en abril, mes predilecto del comienzo del buen tiempo ☀️ (aunque a principios de mes ha llovido de lo lindo), la propagación del polen y los estornudos 🤧 y, como no, la floración de la mayoría de los árboles y flores. 🌻🌷🏵️🌸💮</p>
+
+<p>Es por ello que este mes queremos daros un <strong>toque de color</strong> a vuestro regalo. ¡Esperamos que os guste! 😊</p>
+
+<p>Un beso muy fuerte y hasta el próximo mesversario!! 😘😘</p>`,
+  comment: "Reunión en casa de Javi e Inés ❤️ No veis a Laura y Funes, pero creednos: están aquí. Reencarnados en croquetas y tortillas. 🙌🍳",
   imagePath: "images/day8.jpg"
   },
   {

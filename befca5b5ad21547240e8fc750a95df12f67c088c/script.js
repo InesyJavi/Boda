@@ -138,8 +138,23 @@ Ya pasamos el ecuador del año. ¡Qué rápido, eh! 😱</p>
   imagePath: "images/day8.jpg"
   },
   {
-  message: "Mayo",
-  comment: "Mayo",
+  message: `<p><strong>¡¡Hola chicos!!</strong> 😎🍦</p>
+
+  <p>El calorcito ya asoma, las vacaciones se huelen, el sol brilla… y hemos decidido que este mes <strong>os vamos a hacer trabajar</strong>, ya vale de regalos.<br>
+  Porque además a mi personalmente me parece bastante egoísta eso de que seáis protagonistas de vuestra boda, hombre ya!</p>
+  
+  <p>Así que este mes os toca <strong>demostrar que nos conocéis tanto como decís</strong>.<br>
+  Hemos preparado un <em>quiz</em> de alto nivel, una especie de <strong>Examen Final de Amistad™</strong>, donde os jugáis, nada más y nada menos, que... <strong>la permanencia en esta página web</strong>.<br>
+  
+  👉 <a href="https://fr.educaplay.com/ressources-pedagogiques/24039330-quiz_cuanto_sabeis_sobre_nosotros.html" target="_blank">¿Cuánto sabéis sobre nosotros?</a></p>
+  
+   
+  <p>Si superáis la prueba, nos vemos el mes que viene con más sorpresas.<br>
+  Si no... bueno, ya hablaremos con Recursos Humanos de esta página web 🧑‍⚖️📄</p>
+  
+  <p><strong>Un beso enorme y que el conocimiento os acompañe.</strong><br>
+  <strong>XOXO, Gossip Girl.</strong> 😘</p>`,
+  comment: "¡Ha pasado un año desde esta foto! Qué buenos recuerdos...",
   imagePath: "images/day9.jpg"
   },
   {

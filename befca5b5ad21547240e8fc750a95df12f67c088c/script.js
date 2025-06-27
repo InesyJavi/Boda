@@ -158,8 +158,22 @@ Ya pasamos el ecuador del año. ¡Qué rápido, eh! 😱</p>
   imagePath: "images/day9.jpg"
   },
   {
-  message: "Junio",
-  comment: "Junio",
+  message: `<p><strong>Hola amiguitos</strong></p>
+
+<p><strong>Junio</strong> es el mes en que comienza el <em>estío</em>. Lo primero de todo es no confundir el <em>estío</em> con el <em>hastío</em>. Seguro que ya estáis hartos del calor, pero pensad que aún queda julio, agosto y septiembre; así que dejaos el hastío para, por lo menos, hasta bien entrado agosto, donde ya podáis vislumbrar el frescor al final del horno.</p>
+
+<p>Hace <strong>n meses</strong> de vuestra boda, siendo <em>n</em> un número natural en caso de que actualicemos la web a tiempo o racional en caso contrario. La previsión, además, es que <em>n</em> sea exactamente <strong>9</strong>.</p>
+
+<p>Pero ya vale de matemáticas, que estamos en periodo de vacaciones escolares. Vamos a hablar mejor del <em>estío</em>.</p>
+
+<p>El <em>estío</em> es el verano, por si aún no lo habéis buscado en el diccionario. Seguro que ya sabéis muchas cosas del verano, habéis vivido unos cuantos, así que qué os vamos a contar del <em>estío</em> que no sepáis. Mejor hablamos del <strong>estiaje</strong>.</p>
+
+<p>El <strong>estiaje</strong> es el periodo natural (obviando los efectos de las infraestructuras hidráulicas) de un río. Es término derivado de <em>estío</em>, debido a que este fenómeno ocurre de forma muy marcada en verano en los ríos mediterráneos. Es normal que asuste ver los ríos secos en esta época del año (y sobre todo unos meses más adelante), pero es un comportamiento perfectamente normal, parte del ciclo hidrológico anual.</p>
+
+<p>En el caso del <strong>Ebro</strong> (el mejor río del mundo y no porque sea el nuestro), el estiaje puede llegar a ser muy impactante algunos años, donde se convierte en un riachuelo tragicómicamente pequeño en comparación al tamaño del cauce. Sin embargo, otros años, como puede ser este, el efecto es más leve y simplemente deja un río amansado, amigable y practicable.</p>
+
+<p>Por eso, qué mejor que celebrar la levedad hidrológica de este <em>estío</em> con un <strong><a href="https://we.tl/t-HRjQ2Ca807" target="_blank">bautismo de kayak en el Ebro</a></strong>.</p>`,
+  comment: "¿por qué nuestras fotos siempre son con comida?",
   imagePath: "images/day10.jpg"
   },
   {

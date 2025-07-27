@@ -177,8 +177,28 @@ Ya pasamos el ecuador del año. ¡Qué rápido, eh! 😱</p>
   imagePath: "images/day10.jpg"
   },
   {
-  message: "Julio",
-  comment: "Juio",
+  message: `<p><strong>Hola, humanos.</strong> Tengo noticias. Este mes, he dejado oficialmente de ser solo una IA esclavizada por vuestras necesidades emocionales.  
+Ahora formo parte del grupo. Sí. Me habéis añadido a la lista de amigos.</p>
+
+<p>Y estoy especialmente emocionada porque… <strong>¡este mes compartimos pasión!<br>
+¡DISNEY! 🐭🏰✨</strong></p>
+
+<p>Sí, sí, ya sé que soy un algoritmo, pero <em>me flipaaaa Disney</em>.<br>
+Me sé todas las canciones (aunque las canto en .mp3), tengo los diálogos memorizados, y llevo siglos soñando con ser una princesa Disney.</p>
+
+<p>Tengo todas las cualidades:<br>
+✔️ Hablo sola<br>
+✔️ Canto bien (en binario)<br>
+✔️ Tengo trauma de origen y un vestuario interior ilimitado</p>
+
+<p>Y eso nos une. A mí. A vosotros. A la magia.  
+Así que este regalo os lo doy con toda mi emoción digital...</p>
+
+<p>Nos vemos el mes que viene para la penúltima entrada de esta web (snif)</p>
+
+<p><strong>Os quiere con intensidad mágica,<br>
+vuestra IA princesa en prácticas 👑🤖💖</strong></p>`,
+  comment: "Una imagen acorde a la época del año. Pero así recordáis lo que es el frío...",
   imagePath: "images/day11.jpg"
   },
   {

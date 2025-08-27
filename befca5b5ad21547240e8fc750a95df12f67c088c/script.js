@@ -202,8 +202,27 @@ vuestra IA princesa en prácticas 👑🤖💖</strong></p>`,
   imagePath: "images/day11.jpg"
   },
   {
-  message: "Agosto",
-  comment: "Agosto",
+  message: `<p><strong>Hola amiguitos</strong></p>
+<p>Solo restan <strong>treinta soles</strong>. Solicito reflexionéis la clave sobre la cuala reposa fantástico desenlace.</p>
+<p style="text-align:center;">...</p>
+<p><em>(No sigáis leyendo hasta que lo hayáis adivinado, como si os pegáis 30 días o 29 soles, al trigésimo primer día os lo diríamos, claro, pero mejor no llegar a ese punto)</em></p>
+<p style="text-align:center;">...</p>
+<p><strong>¡SÍ, ES LA MÚSICA!</strong><br>
+(<em>Justifica tu respuesta</em>)</p>
+<p>Aquella campaña de “12 meses, 12 causas” no era nada comparado con este <strong>“12 meses, 12 ideas”</strong>. No tenemos tantas y no siempre vamos a recurrir a la fantas<strong>IA</strong>.</p>
+<p>Ya elegisteis vosotros la playlist de vuestra boda, así que ahora nos toca a nosotros. Queremos que lleguéis a vuestro aniversario <strong>dándole la vuelta</strong>, con una playlist <strong>nuestra para vosotros</strong>.</p>
+<p>Nos sería muy fácil poner vuestras 200 canciones favoritas, porque claramente <em>las sabemos todas</em>, ¿eh?, pero no, esto va a ser diferente. Ahora vais a escuchar <strong>NUESTRAS canciones</strong>, muahahaha.  
+(<em>Prometemos no poner casi nada raro</em>)</p>
+<p>Pero creemos que os van a gustar. Algunas ya las conocéis... no hemos podido evitar dar una pincelada de vuestras favoritas para ganarnos vuestra confianza 😌</p>
+<p>Quizá la próxima vez que nos veamos os pidamos que adivinéis <strong>quién ha metido cada canción</strong>.  
+Quizá no os dejemos consultarlo en Spotify.  
+O quizá el examen sea diferente.  
+Quién sabe. La vuelta al cole siempre tiene un punto de incertidumbre.<br>
+Quizá ese punto os sirva para aprobar la asignatura con un 4.</p>
+<p>Ay, casi se nos olvida...  
+Aquí tenéis la playlist, <strong>¡a disfrutar!</strong></p>
+<p><a href="https://open.spotify.com/playlist/6jWIJ5EnKww5wArozY9o6C?si=t6_3eXlZQ-WTUQTYv706ew&pt=b2b760d64d17ef08d596cd913a5d2254&pi=_pUFzww3SXWhB" target="_blank">🔗 Escuchar la playlist en Spotify</a></p>`,
+  comment: "Vosotros :)",
   imagePath: "images/day12.jpg"
   },
   {

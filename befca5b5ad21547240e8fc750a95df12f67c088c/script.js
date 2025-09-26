@@ -226,8 +226,28 @@ Aquí tenéis la playlist, <strong>¡a disfrutar!</strong></p>
   imagePath: "images/day12.jpg"
   },
   {
-  message: "Septiembre",
-  comment: "Septiembre",
+  message: `<p><strong>Hola chicos,</strong></p>
+
+<p>No sabemos muy bien cómo ha pasado, pero… ya ha pasado un año!</p>
+
+<p>Doce meses, doce sorpresas, doce excusas para recordar lo mucho que os queremos y lo bien que lo pasamos juntos... en la boda, antes, y desde entonces.</p>
+
+<p>Y también se cumple un año desde que empezamos esta página web, con un solo objetivo: acompañaros mes a mes, con un poco de humor, alguna sorpresa, y mucho amor. Nos ha hecho muchísima ilusión acompañaros este año, descubriendo cada pequeña sorpresa en esto que empezó como una idea loca y acabó convirtiéndose en algo que también vamos a recordar nosotros con muchísimo cariño.</p>
+
+<p>Ha sido un año lleno de todo. Y para esta última entrada, no queríamos escribir desde el presente.</p>
+
+<p>Así que hemos rebuscado en los archivos secretos del día de vuestra boda y hemos rescatado un vídeo que grabamos entonces, hace exactamente un año...</p>
+
+<p><a href="https://drive.google.com/file/d/1F8CR1ATXMD3efdZjGM9I0OiFZzjO9rF6/view?usp=sharing" target="_blank">🎥 Vídeo</a></p>
+
+<p><strong>
+Gracias por dejarnos estar ahí.<br>
+Gracias por hacerlo tan fácil y tan bonito.<br>
+Os queremos muchísimo.<br>
+Feliz primer aniversario.
+</strong></p>`
+,
+  comment: "El día D",
   imagePath: "images/day13.jpg"
   },
   {
